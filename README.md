@@ -1,2 +1,1 @@
-# Task
-Demo
+Print("Hello world")
